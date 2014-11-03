@@ -1730,14 +1730,14 @@ table {
 html {
   height: 100%;
   max-height: 100%;
-  font-size: 62.5%;
+  font-size: 67,5%;
   overflow-x: hidden; }
 
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "Roboto Slab", serif;
-  font-size: 2.0rem;
+  font-family: "Times New Roman", serif;
+  font-size: 1.5rem;
   line-height: 1.6em;
   color: black; }
 
@@ -1769,38 +1769,38 @@ h4, h5, h6 {
   line-height: 1;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: "Raleway", sans-serif; }
+  font-family: "Impact", sans-serif; }
 
 h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
   line-height: 120%;
   margin-top: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Impact", sans-serif;
   margin-bottom: 0%; }
 
 h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   line-height: 1.2em;
   letter-spacing: -2px;
   text-indent: -3px; }
 
 h2 {
-  font-size: 4rem;
+  font-size: 2rem;
   line-height: 1.2em;
   letter-spacing: -1px;
   text-indent: -2px; }
 
 h3 {
-  font-size: 3.5rem; }
+  font-size: 2rem; }
 
 h4 {
-  font-size: 3rem; }
+  font-size: 1.5rem; }
 
 h5 {
-  font-size: 2.5rem; }
+  font-size: 1rem; }
 
 h6 {
-  font-size: 2rem; }
+  font-size: 1rem; }
 
 a {
   color: inherit;
@@ -2080,7 +2080,7 @@ ul li {
   font-size: 1.8rem;
   line-height: 1.5em;
   font-weight: 300;
-  font-family: "Roboto Slab", serif;
+  font-family: "Times New Roman", serif;
   letter-spacing: 0; }
 
 .post-holder {
@@ -2114,7 +2114,7 @@ ul li {
   top: 40px;
   left: 2%;
   z-index: 99999;
-  font-family: "Raleway", sans-serif;
+  font-family: "Impact", sans-serif;
   text-transform: uppercase;
   font-size: 1.5rem;
   line-height: 130%;
@@ -2161,7 +2161,7 @@ a.fn-item.active {
 .post-meta {
   display: inline-block;
   margin: 0 0 5px 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Impact", sans-serif;
   font-size: 1.5rem;
   color: #9EABB3; }
 
@@ -2291,7 +2291,7 @@ a.fn-item.active {
   width: 80%;
   max-width: 700px;
   margin: 4rem auto;
-  font-family: "Raleway", sans-serif;
+  font-family: "Impact", sans-serif;
   font-size: 1.3rem;
   color: #9EABB3;
   text-align: center; }
@@ -2331,7 +2331,7 @@ a.fn-item.active {
   position: relative;
   margin: 0rem 0 0 0;
   padding: 1rem 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Impact", sans-serif;
   font-size: 1.3rem;
   line-height: 1.5em;
   color: #BBC7CC;
