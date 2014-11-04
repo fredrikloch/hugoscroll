@@ -12,6 +12,13 @@
         {{ if .Site.Params.flickr }}
         <a href="http://www.flickr.com/photos/{{ .Site.Params.flickr }}/" title="Flickr"><span class="fa fa-flickr fa-2x"></span></a>
         {{ end }}
+
+        {{ if .Site.Params.linkedin }}
+       <a href="http://no.linkedin.com/in/{{ .Site.Params.linkedin }}/en" title="Linkedin"> <i class='fa fa-ll fa-2x'></i></a>
+        {{ end }}
+        {{ if .Site.Params.email }}
+        <a href="mailto:{{ .Site.Params.email }}" title="Email {{ .Site.Params.email }}"> <i class='fa fa-envelope-o fa-2x'></i></a>
+        {{ end }}
         </div>
         <div class="inner">
              <section ><a href="http://ghostscroll.grmmph.com/">HugoScroll</a> theme by <a href="http://fredrikloch.me">Fredrik</a>.<br>
