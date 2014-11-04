@@ -1,6 +1,16 @@
-author = ""
-description = ""
-license = "MIT"
-name = "hugoscroll"
-source_repo = ""
-tags = ["", ""]
+name = "Hugo-scroll"
+license = "Creative Commons Attribution 4.0 International"
+licenselink = "https://creativecommons.org/licenses/by/4.0/"
+description = "A single page theme for hugo"
+homepage = "https://github.com/SenjinDarashiva/hugoscroll"
+tags = ["Responsive", "Awesome fonts", "single page"]
+features = ["landing page", ]
+
+[author]
+    name = "Fredrik Loch"
+    homepage = "http://fredrikloch.me"
+
+[original]
+    author =  "grmmph"
+    homepage = "http://ghostscroll.grmmph.com/"
+    repo = "https://github.com/grmmph/GhostScroll"
