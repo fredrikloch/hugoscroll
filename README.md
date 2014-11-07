@@ -38,6 +38,7 @@ allows us to use any number between 2 -- 99
 Site config
 -
 Apart from the regular config you can specify the following parameters to get extra features in the theme
+
     [Params]
       github = "Senjindarashiva"
       bitbucket = "floch"
