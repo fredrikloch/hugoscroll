@@ -22,6 +22,7 @@ post header. For the first and the last post you need to add a class definition,
     title = "What is this"
     description = "First post"
     weight = 1
+    type = "post"
     class="post first"
     +++
 
@@ -29,6 +30,7 @@ post header. For the first and the last post you need to add a class definition,
     title = "Finaly!"
     description = "Last Post"
     weight = 100
+    type = "post"
     class="post last"
     +++
 
