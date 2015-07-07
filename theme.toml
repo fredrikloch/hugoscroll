@@ -5,6 +5,7 @@ description = "A single page theme for hugo"
 homepage = "https://github.com/SenjinDarashiva/hugoscroll"
 tags = ["Responsive", "Awesome fonts", "single page"]
 features = ["landing page", ]
+min_version = 0.14
 
 [author]
     name = "Fredrik Loch"
