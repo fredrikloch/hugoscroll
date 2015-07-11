@@ -6,9 +6,9 @@
 {{ end }}
 
     <header class="post-header">
-        <a id="blog-logo" href="{{ .Site.BaseUrl}}">
+        <a id="blog-logo" href="{{ .Site.BaseURL}}">
             {{ if .Site.Params.logo }}
-                <a id="blog-logo" href="{{ .Site.BaseUrl}}"><img src="{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
+                <a id="blog-logo" href="{{ .Site.BaseURL}}"><img src="{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
             {{else}}
                 {{ .Site.Title }}
             {{ end }}
