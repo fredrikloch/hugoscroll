@@ -1,6 +1,10 @@
+**I am no longer activly maintaing this theme, I will try to check out pull requests if possible**
+
+
+
 Hugo Scroll
 =
-A live example of this theme is running at this site [hugoscroll.fredrikloch.me](http://hugoscroll.fredrikloch.me)
+
 Using scroll
 -
 To get started with hugo you first need to download the [binaries](http://gohugo.io), whith these in place it is easy to get started.
